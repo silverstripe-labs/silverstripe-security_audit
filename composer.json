@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/security_audit",
+	"description": "SilverStripe Security Audit Module.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "security_audit", "security"],
+	"authors": [
+	{
+		"name": "Ingo Schommer",
+		"email": "ingo@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.*"
+	}
+}
